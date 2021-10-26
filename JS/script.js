@@ -55,7 +55,7 @@ const a = prompt('Один из последних просмотренных ф
 
     if (a != null && b != null && a != '' && b != '' & a.length < 50) {
         personalMovieDB.movies[a] = b;
-        console.log('Done')
+        console.log('Done');
     } else {
         console.log('Error');
         i--;
