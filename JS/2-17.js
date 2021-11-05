@@ -11,5 +11,3 @@ console.log(str.toLowerCase());
 console.log(str);
 
 const fruit = "Some fruit";
-
-console.log
